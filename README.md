@@ -1,1 +1,2 @@
-# split a string and other operations
+# basics of python 
+#split a string and other operations
